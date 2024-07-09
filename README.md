@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bookswap connect](https://github.com/gitere001/Bookswap-connect)
 
-- 🌱 I’m currently learning **javascript, node.js**
+- 🌱 I’m currently learning **javascript, node.js, async python**
 
 - 👯 I’m looking to collaborate on [Bookswap connect](https://github.com/gitere001/Bookswap-connect)
 
