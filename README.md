@@ -5,17 +5,17 @@
 
 
 
-- 🔭 I’m currently working on [Bookswap connect](https://github.com/gitere001/Bookswap-connect)
+- 🔭 I’m currently working on [Skillup](https://github.com/gitere001/Skillup)
 
-- 🌱 I’m currently learning **javascript, node.js, async python**
+- 🌱 I’m currently learning **nodejs, express, postgreSQL**
 
-- 👯 I’m looking to collaborate on [Bookswap connect](https://github.com/gitere001/Bookswap-connect)
+- 👯 I’m looking to collaborate on [Skillup](https://github.com/gitere001/Skillup)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitere001/](https://github.com/gitere001/)
 
 - 📝 I regularly write articles on [https://jamesgitereblog.wordpress.com/](https://jamesgitereblog.wordpress.com/)
 
-- 💬 Ask me about **flask, MYSQL, python, devops,**
+- 💬 Ask me about **flask, MYSQL, python, devops, expressjs, nodejs, postgresql**
 
 - 📫 How to reach me **giterejames10@gmail.com**
 
