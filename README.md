@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm James Gitere</h1>
-<h3 align="center">A passionate and detail-oriented backend software engineer from Kenya, driven by curiosity and a love for deep diving into new technologies.</h3>
+<h3 align="center">A passionate and detail-oriented software engineer from Kenya, driven by curiosity and a love for deep diving into new technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://jamesgitereblog.wordpress.com/](https://jamesgitereblog.wordpress.com/)
 
-- 💬 Ask me about **flask, MYSQL, python, devops, expressjs, nodejs, postgresql**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql**
 
 - 📫 How to reach me **giterejames10@gmail.com**
 
