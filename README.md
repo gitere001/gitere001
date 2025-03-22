@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitere001/](https://github.com/gitere001/)
 
-- 📝 I regularly write articles on [https://jamesgitereblog.wordpress.com/](https://jamesgitereblog.wordpress.com/)
+- 📝 I regularly write articles on [https://jamesgiteredev.wordpress.com/](https://jamesgiteredev.wordpress.com/)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql, mongodb, react, mpesa integration**
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jamesgitere1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesgitere1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/james-gitere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-gitere" height="30" width="40" /></a>
+<a href="https://twitter.com/jamesgitere1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesgitere1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/james-gitere" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-gitere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
