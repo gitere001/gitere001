@@ -5,19 +5,19 @@
 
 
 
-- 🔭 I’m currently working on [Skillup](https://github.com/gitere001/Skillup)
+- 🔭 I’m currently working on [mpesa integration](https://github.com/gitere001/react-learning-journey/tree/main/e-commerce-store)
 
-- 🌱 I’m currently learning **nodejs, express, postgreSQL**
+- 🌱 I’m currently learning **redux toolkit, nextjs, react-router**
 
-- 👯 I’m looking to collaborate on [Skillup](https://github.com/gitere001/Skillup)
+- 👯 I’m looking to collaborate on [E-commerce store](https://github.com/gitere001/react-learning-journey/tree/main/e-commerce-store)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gitere001/](https://github.com/gitere001/)
 
 - 📝 I regularly write articles on [https://jamesgitereblog.wordpress.com/](https://jamesgitereblog.wordpress.com/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql, mongodb, react, mpesa integration**
 
-- 📫 How to reach me **giterejames10@gmail.com**
+- 📫 How to reach me **gitere.dev@gmail.com**
 
 - ⚡ Fun fact **Thorough Analyzer: I take the time to analyze and comprehend topics deeply before making decisions.**
 
