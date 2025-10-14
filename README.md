@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [mpesa integration](https://github.com/gitere001/react-learning-journey/tree/main/e-commerce-store)
 
-- 🌱 I’m currently learning **redux toolkit, nextjs, react-router**
+- 🌱 I’m currently learning **etims integration accounting systems, web sockets**
 
 - 👯 I’m looking to collaborate on [E-commerce store](https://github.com/gitere001/react-learning-journey/tree/main/e-commerce-store)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://jamesgiteredev.wordpress.com/](https://jamesgiteredev.wordpress.com/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql, mongodb, react, mpesa integration**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, flask, MYSQL, python, devops, expressjs, nodejs, postgresql, mongodb, react, mpesa integration, etims integration, accounting softwares**
 
 - 📫 How to reach me **gitere.dev@gmail.com**
 
